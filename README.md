@@ -1,3 +1,5 @@
 # EAROL
-For iors2025, Comming soon...
-Environmental Augmented Perception-Aware Planning and Robust Odometry via Downward-Mounted Tilted LiDAR
+
+#Environmental Augmented Perception-Aware Planning and Robust Odometry via Downward-Mounted Tilted LiDAR
+
+#For iors2025, Comming soon...
